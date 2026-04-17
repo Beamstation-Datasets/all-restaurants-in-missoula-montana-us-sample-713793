@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "City-level restaurant data for Missoula, Montana. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
   "config_name": "All Restaurants in Missoula, Montana, US",
-  "export_job_id": "7534af28-d7e1-4e72-9792-0d24b61be699",
+  "export_job_id": "93219962-470e-4429-8ad0-686e974c0c57",
   "github_org": "Beamstation-Datasets",
   "id_short": 713793,
   "location_name": "Missoula",
   "location_type": "city",
   "repo_name": "all-restaurants-in-missoula-montana-us-sample-713793",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/713793/beamstation_713793_restaurants-us-mt_SAMPLE_DIST.csv",
-  "sample_pct": 11.37,
+  "sample_pct": 10.0,
   "sample_records": 29,
   "sample_sha256": "f1c0d4d1606b007c9819c2eb53370f89276c248ccfe418d312d8391dc7e9ea7c",
   "sample_size_bytes": 115206,
-  "total_records": 255,
-  "updated_at": "2026-03-31T15:20:47.721717+00:00"
+  "total_records": 290,
+  "updated_at": "2026-04-14T16:10:43.675907+00:00"
 }
