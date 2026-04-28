@@ -1,6 +1,6 @@
 # All Restaurants in Missoula, Montana, US
 
-> Free BeamStation sample export with 18 rows and masked direct-contact fields.
+> Free BeamStation sample export with 28 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `713793` |
 | Location | Missoula |
 | Category | Restaurants |
-| Full dataset size | 185 records |
-| Free sample size | 18 records (9.73%) |
-| Last export | 2026-04-21T17:32:01.151927+00:00 |
+| Full dataset size | 284 records |
+| Free sample size | 28 records (9.86%) |
+| Last export | 2026-04-28T18:46:22.064383+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-missoula-montana-us-sample-713793/releases/download/sample-latest/beamstation_713793_restaurants-us-mt_SAMPLE_DIST.csv) |
 
 ## What is in this sample
