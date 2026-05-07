@@ -1,12 +1,12 @@
 {
-  "export_job_id": "89795146-eb71-4f82-8591-5d5260f7b92e",
+  "export_job_id": "9a20ca5e-3413-4857-8a6f-dffdeb898b7a",
   "id_short": 713793,
-  "published_at": "2026-04-28T19:55:43Z",
+  "published_at": "2026-05-07T07:17:56Z",
   "repo_name": "all-restaurants-in-missoula-montana-us-sample-713793",
   "sample_asset_name": "beamstation_713793_restaurants-us-mt_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/713793/beamstation_713793_restaurants-us-mt_SAMPLE_DIST.csv",
-  "sample_records": 28,
-  "sample_sha256": "1629b706750f484905df027d416e301be173af8485db31fc8da7a811d99204eb",
-  "sample_size_bytes": 120744,
-  "total_records": 284
+  "sample_records": 30,
+  "sample_sha256": "06b3f80097417a80aaf70a9dac0f21837dd059bd460f7b921164a7ce4675a1dd",
+  "sample_size_bytes": 118660,
+  "total_records": 303
 }
